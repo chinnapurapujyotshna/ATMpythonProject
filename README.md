@@ -29,7 +29,7 @@ if pin==password:
 		if option==3:
 			deposit_amount=int(input("enter deposit_amount"))
 			balance=balance+deposit_amount
-			print(f"ypur updated balance is{balance}")
+			print(f"your updated balance is{balance}")
 
 		if option==4:
 
